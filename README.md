@@ -1,4 +1,4 @@
-# Controlling_two_motors_using_H-Bridge
+# Controlling two_motors_using_H-Bridge
 
 In this circuit I used two motors, an H-Bridge driver,9V battery, and two potentiometers replacing a joystick since Tinkercad doesn't have joystick component.
 In this circuit first potentiometer is used for vertical movemnet (Up and Down), and the second potentiometer is used for vertical movement (Left and Right).
